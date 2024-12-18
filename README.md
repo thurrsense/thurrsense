@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Thurrsense's GitHub stats](https://github-readme-stats.vercel.app/api?username=thurrsense)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
