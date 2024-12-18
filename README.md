@@ -14,8 +14,8 @@
 - SPbPU (Since 2020)
 
 ### Languages
-🇷🇺 Russian - Native <br>
-🇬🇧 English - B2 <br>
+- Russian - Native <br>
+- English - B2 <br>
 
 
 ### 📊 Stack
