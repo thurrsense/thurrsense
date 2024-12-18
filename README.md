@@ -6,7 +6,6 @@
 
 
 [![Thurrsense's GitHub stats](https://github-readme-stats.vercel.app/api?username=thurrsense)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thurrsense&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ### Education
 - SPbPU (Since 2020)
