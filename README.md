@@ -4,8 +4,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thurrsense&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
+🔭 Exploring networking by developing my own VPN service.
+🌱 Interested into telecom and high-load system architecture.
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
