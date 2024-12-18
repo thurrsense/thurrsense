@@ -1,5 +1,5 @@
 ## Arthur Khasanov
-#### Development & QA
+### Development & QA
 
 - 🔭 Exploring networking by developing my own VPN service.
 - 🌱 Interested into telecom and high-load system architecture.
